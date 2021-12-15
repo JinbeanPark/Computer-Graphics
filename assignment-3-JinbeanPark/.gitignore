@@ -1,0 +1,6 @@
+*.ico
+*.obj
+*.bat
+*.command
+.idea/
+.DS_Store
