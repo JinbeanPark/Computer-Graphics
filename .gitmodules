@@ -1,0 +1,12 @@
+[submodule "assignment-1-JinbeanPark"]
+	path = assignment-1-JinbeanPark
+	url = https://github.com/JinbeanPark/Computer-Graphics.git
+[submodule "assignment-2-JinbeanPark"]
+	path = assignment-2-JinbeanPark
+	url = https://github.com/JinbeanPark/Computer-Graphics.git
+[submodule "assignment-3-JinbeanPark"]
+	path = assignment-3-JinbeanPark
+	url = https://github.com/JinbeanPark/Computer-Graphics.git
+[submodule "assignment-4-JinbeanPark"]
+	path = assignment-4-JinbeanPark
+	url = https://github.com/JinbeanPark/Computer-Graphics.git
